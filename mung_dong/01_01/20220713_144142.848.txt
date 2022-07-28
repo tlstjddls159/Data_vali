@@ -1,0 +1,195 @@
+{
+  "USC_CD": "C01",
+  "FP_CD": 1,
+  "PNT_CD": 55,
+  "PNT_COORD": {
+    "X": 1,
+    "Y": 1
+  },
+  "PNT_MAPG_NO": null,
+  "DATETIME": "20220713_144142.848",
+  "DEVICE": "LM-V510N",
+  "PRESSURE": 994.28876,
+  "GEOMAG": {
+    "X": -21.018751,
+    "Y": 20.587502,
+    "Z": -20.025002
+  },
+  "WIFI_RSSI_AP_CNT": 29,
+  "WIFI_RSSI_AP": [
+    {
+      "NO": 1,
+      "SSID": "phstat",
+      "BSSID": "70:5d:cc:aa:92:2a",
+      "RSSI": -81
+    },
+    {
+      "NO": 2,
+      "SSID": "KT_GiGA_2G_B029",
+      "BSSID": "88:3c:1c:13:b0:2d",
+      "RSSI": -83
+    },
+    {
+      "NO": 3,
+      "SSID": "svc_2.4G",
+      "BSSID": "70:5d:cc:38:40:ea",
+      "RSSI": -73
+    },
+    {
+      "NO": 4,
+      "SSID": "Linc-5F2",
+      "BSSID": "70:5d:cc:34:18:2e",
+      "RSSI": -47
+    },
+    {
+      "NO": 5,
+      "SSID": "Linc-5F2_5G",
+      "BSSID": "70:5d:cc:34:18:2c",
+      "RSSI": -54
+    },
+    {
+      "NO": 6,
+      "SSID": "DK0328",
+      "BSSID": "70:5d:cc:2a:56:9e",
+      "RSSI": -78
+    },
+    {
+      "NO": 7,
+      "SSID": "designing",
+      "BSSID": "58:86:94:63:d2:72",
+      "RSSI": -85
+    },
+    {
+      "NO": 8,
+      "SSID": "linc718",
+      "BSSID": "64:e5:99:a3:da:7c",
+      "RSSI": -70
+    },
+    {
+      "NO": 9,
+      "SSID": "DSRC",
+      "BSSID": "70:5d:cc:ca:3e:f2",
+      "RSSI": -70
+    },
+    {
+      "NO": 10,
+      "SSID": "KT_GiGA_1838",
+      "BSSID": "b4:a9:4f:b1:18:3c",
+      "RSSI": -82
+    },
+    {
+      "NO": 11,
+      "SSID": "edit 5G",
+      "BSSID": "70:5d:cc:82:8f:8c",
+      "RSSI": -87
+    },
+    {
+      "NO": 12,
+      "SSID": "netis",
+      "BSSID": "04:5e:a4:fe:ab:5a",
+      "RSSI": -81
+    },
+    {
+      "NO": 13,
+      "SSID": "uscm_816_2g",
+      "BSSID": "88:36:6c:87:03:34",
+      "RSSI": -66
+    },
+    {
+      "NO": 14,
+      "SSID": "uscm_816_5g",
+      "BSSID": "88:36:6c:87:03:36",
+      "RSSI": -89
+    },
+    {
+      "NO": 15,
+      "SSID": "iptime_AAAAA",
+      "BSSID": "64:e5:99:a3:da:78",
+      "RSSI": -78
+    },
+    {
+      "NO": 16,
+      "SSID": "MBN_Guest",
+      "BSSID": "c4:10:8a:59:e3:38",
+      "RSSI": -83
+    },
+    {
+      "NO": 17,
+      "SSID": "DIC-3F",
+      "BSSID": "58:b6:33:0e:73:b8",
+      "RSSI": -75
+    },
+    {
+      "NO": 18,
+      "SSID": "T wifi zone_secure",
+      "BSSID": "06:30:0d:85:76:42",
+      "RSSI": -87
+    },
+    {
+      "NO": 19,
+      "SSID": "U+Net4290_5G",
+      "BSSID": "80:ca:4b:61:42:93",
+      "RSSI": -68
+    },
+    {
+      "NO": 20,
+      "SSID": "U+Net4290",
+      "BSSID": "80:ca:4b:61:42:92",
+      "RSSI": -41
+    },
+    {
+      "NO": 21,
+      "SSID": "KT_GiGA_2G_F8E1",
+      "BSSID": "88:3c:1c:3b:f8:e5",
+      "RSSI": -78
+    },
+    {
+      "NO": 22,
+      "SSID": "gh_main",
+      "BSSID": "88:36:6c:d4:ce:1a",
+      "RSSI": -85
+    },
+    {
+      "NO": 23,
+      "SSID": "iptime",
+      "BSSID": "88:36:6c:6a:64:ca",
+      "RSSI": -80
+    },
+    {
+      "NO": 24,
+      "SSID": "",
+      "BSSID": "70:5d:cc:7e:03:66",
+      "RSSI": -70
+    },
+    {
+      "NO": 25,
+      "SSID": "dgu_sound",
+      "BSSID": "70:5d:cc:7e:03:64",
+      "RSSI": -95
+    },
+    {
+      "NO": 26,
+      "SSID": "Linc-5F1_5G",
+      "BSSID": "70:5d:cc:34:03:c8",
+      "RSSI": -69
+    },
+    {
+      "NO": 27,
+      "SSID": "Linc-5F1",
+      "BSSID": "70:5d:cc:34:03:ca",
+      "RSSI": -52
+    },
+    {
+      "NO": 28,
+      "SSID": "",
+      "BSSID": "20:db:ab:6e:89:0d",
+      "RSSI": -83
+    },
+    {
+      "NO": 29,
+      "SSID": "",
+      "BSSID": "00:0a:5c:b1:32:25",
+      "RSSI": -90
+    }
+  ]
+}

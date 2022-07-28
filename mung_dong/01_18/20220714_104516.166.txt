@@ -1,0 +1,165 @@
+{
+  "USC_CD": "C01",
+  "FP_CD": 1,
+  "PNT_CD": 956,
+  "PNT_COORD": {
+    "X": 1,
+    "Y": 18
+  },
+  "PNT_MAPG_NO": null,
+  "DATETIME": "20220714_104516.166",
+  "DEVICE": "LM-V510N",
+  "PRESSURE": 997.6262,
+  "GEOMAG": {
+    "X": -23.212502,
+    "Y": -40.5,
+    "Z": -35.006252
+  },
+  "WIFI_RSSI_AP_CNT": 24,
+  "WIFI_RSSI_AP": [
+    {
+      "NO": 1,
+      "SSID": "KT_GiGA_5G_Wave2_2E51",
+      "BSSID": "60:29:d5:08:2e:54",
+      "RSSI": -85
+    },
+    {
+      "NO": 2,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:23:dc",
+      "RSSI": -59
+    },
+    {
+      "NO": 3,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:57:ca",
+      "RSSI": -67
+    },
+    {
+      "NO": 4,
+      "SSID": "sarangbang 5G",
+      "BSSID": "88:3c:1c:bb:d5:95",
+      "RSSI": -75
+    },
+    {
+      "NO": 5,
+      "SSID": "chosungmin",
+      "BSSID": "00:07:89:77:4a:5c",
+      "RSSI": -68
+    },
+    {
+      "NO": 6,
+      "SSID": "chosungmin_5G",
+      "BSSID": "00:07:89:77:4a:5d",
+      "RSSI": -74
+    },
+    {
+      "NO": 7,
+      "SSID": "t-broadzone",
+      "BSSID": "00:1d:33:09:f6:61",
+      "RSSI": -80
+    },
+    {
+      "NO": 8,
+      "SSID": "WPHARM",
+      "BSSID": "64:e5:99:1e:7b:6a",
+      "RSSI": -63
+    },
+    {
+      "NO": 9,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:28:26",
+      "RSSI": -66
+    },
+    {
+      "NO": 10,
+      "SSID": "HARVARD OP _5G",
+      "BSSID": "00:07:89:60:90:68",
+      "RSSI": -82
+    },
+    {
+      "NO": 11,
+      "SSID": "AT",
+      "BSSID": "90:9f:33:d2:aa:42",
+      "RSSI": -87
+    },
+    {
+      "NO": 12,
+      "SSID": "NIDS_P_02_f5:f3",
+      "BSSID": "ce:50:e3:67:f5:f3",
+      "RSSI": -77
+    },
+    {
+      "NO": 13,
+      "SSID": "O5G",
+      "BSSID": "70:5d:cc:38:52:d8",
+      "RSSI": -68
+    },
+    {
+      "NO": 14,
+      "SSID": "NIDS_P_02_71:5a",
+      "BSSID": "ee:fa:bc:50:71:5a",
+      "RSSI": -78
+    },
+    {
+      "NO": 15,
+      "SSID": "K-photo 5G",
+      "BSSID": "60:29:d5:45:66:c3",
+      "RSSI": -79
+    },
+    {
+      "NO": 16,
+      "SSID": "K-photo",
+      "BSSID": "60:29:d5:45:66:c4",
+      "RSSI": -70
+    },
+    {
+      "NO": 17,
+      "SSID": "olleh_WiFi_B6EE_5GHz",
+      "BSSID": "08:5d:dd:76:b6:f1",
+      "RSSI": -87
+    },
+    {
+      "NO": 18,
+      "SSID": "NIDS_P_02_77:30",
+      "BSSID": "ee:fa:bc:50:77:30",
+      "RSSI": -69
+    },
+    {
+      "NO": 19,
+      "SSID": "NIDS_P_02_ec:c8",
+      "BSSID": "ee:fa:bc:50:ec:c8",
+      "RSSI": -61
+    },
+    {
+      "NO": 20,
+      "SSID": "SEOUL_5G",
+      "BSSID": "00:07:89:81:db:f5",
+      "RSSI": -90
+    },
+    {
+      "NO": 21,
+      "SSID": "",
+      "BSSID": "ba:3c:1c:bb:d5:95",
+      "RSSI": -75
+    },
+    {
+      "NO": 22,
+      "SSID": "",
+      "BSSID": "66:29:d5:45:66:c3",
+      "RSSI": -79
+    },
+    {
+      "NO": 23,
+      "SSID": "O",
+      "BSSID": "70:5d:cc:38:52:da",
+      "RSSI": -62
+    },
+    {
+      "NO": 24,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:25:12",
+      "RSSI": -83
+    }
+  ]
+}

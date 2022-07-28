@@ -1,0 +1,171 @@
+{
+  "USC_CD": "C01",
+  "FP_CD": 1,
+  "PNT_CD": 691,
+  "PNT_COORD": {
+    "X": 1,
+    "Y": 13
+  },
+  "PNT_MAPG_NO": null,
+  "DATETIME": "20220714_104318.582",
+  "DEVICE": "LM-V510N",
+  "PRESSURE": 997.6087,
+  "GEOMAG": {
+    "X": -24.975,
+    "Y": -27.975,
+    "Z": -24.54375
+  },
+  "WIFI_RSSI_AP_CNT": 25,
+  "WIFI_RSSI_AP": [
+    {
+      "NO": 1,
+      "SSID": "KT_GiGA_2G_Wave2_2E51",
+      "BSSID": "60:29:d5:08:2e:55",
+      "RSSI": -84
+    },
+    {
+      "NO": 2,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:23:dc",
+      "RSSI": -56
+    },
+    {
+      "NO": 3,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:57:ca",
+      "RSSI": -71
+    },
+    {
+      "NO": 4,
+      "SSID": "chosungmin",
+      "BSSID": "00:07:89:77:4a:5c",
+      "RSSI": -76
+    },
+    {
+      "NO": 5,
+      "SSID": "chosungmin_5G",
+      "BSSID": "00:07:89:77:4a:5d",
+      "RSSI": -85
+    },
+    {
+      "NO": 6,
+      "SSID": "WPHARM",
+      "BSSID": "64:e5:99:1e:7b:6a",
+      "RSSI": -78
+    },
+    {
+      "NO": 7,
+      "SSID": "HARVARD OP _5G",
+      "BSSID": "00:07:89:60:90:68",
+      "RSSI": -94
+    },
+    {
+      "NO": 8,
+      "SSID": "KT_GiGA_미래",
+      "BSSID": "b4:a9:4f:c9:97:b3",
+      "RSSI": -81
+    },
+    {
+      "NO": 9,
+      "SSID": "NIDS_P_02_f5:f3",
+      "BSSID": "ce:50:e3:67:f5:f3",
+      "RSSI": -64
+    },
+    {
+      "NO": 10,
+      "SSID": "O5G",
+      "BSSID": "70:5d:cc:38:52:d8",
+      "RSSI": -76
+    },
+    {
+      "NO": 11,
+      "SSID": "WPA2-PSK",
+      "BSSID": "40:18:b1:10:7a:94",
+      "RSSI": -83
+    },
+    {
+      "NO": 12,
+      "SSID": "NIDS_P_02_71:5a",
+      "BSSID": "ee:fa:bc:50:71:5a",
+      "RSSI": -72
+    },
+    {
+      "NO": 13,
+      "SSID": "K-photo 5G",
+      "BSSID": "60:29:d5:45:66:c3",
+      "RSSI": -91
+    },
+    {
+      "NO": 14,
+      "SSID": "K-photo",
+      "BSSID": "60:29:d5:45:66:c4",
+      "RSSI": -79
+    },
+    {
+      "NO": 15,
+      "SSID": "NIDS_P_02_dc:8e",
+      "BSSID": "ee:fa:bc:50:dc:8e",
+      "RSSI": -78
+    },
+    {
+      "NO": 16,
+      "SSID": "olleh_WiFi_B6EE_5GHz",
+      "BSSID": "08:5d:dd:76:b6:f1",
+      "RSSI": -91
+    },
+    {
+      "NO": 17,
+      "SSID": "SORA",
+      "BSSID": "08:5d:dd:76:b6:f2",
+      "RSSI": -84
+    },
+    {
+      "NO": 18,
+      "SSID": "NIDS_P_02_77:30",
+      "BSSID": "ee:fa:bc:50:77:30",
+      "RSSI": -79
+    },
+    {
+      "NO": 19,
+      "SSID": "NIDS_P_02_ec:c8",
+      "BSSID": "ee:fa:bc:50:ec:c8",
+      "RSSI": -77
+    },
+    {
+      "NO": 20,
+      "SSID": "NIDS_P_02_f0:c1",
+      "BSSID": "ce:50:e3:67:f0:c1",
+      "RSSI": -64
+    },
+    {
+      "NO": 21,
+      "SSID": "SISUL",
+      "BSSID": "90:9f:33:ba:f6:ae",
+      "RSSI": -85
+    },
+    {
+      "NO": 22,
+      "SSID": "",
+      "BSSID": "66:29:d5:45:66:c3",
+      "RSSI": -91
+    },
+    {
+      "NO": 23,
+      "SSID": "KT_WLAN_D668_5GHz",
+      "BSSID": "00:27:1c:d6:f6:8e",
+      "RSSI": -84
+    },
+    {
+      "NO": 24,
+      "SSID": "Mir Optical",
+      "BSSID": "00:27:1c:d6:f6:8f",
+      "RSSI": -77
+    },
+    {
+      "NO": 25,
+      "SSID": "O",
+      "BSSID": "70:5d:cc:38:52:da",
+      "RSSI": -70
+    }
+  ]
+}

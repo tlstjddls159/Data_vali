@@ -1,0 +1,219 @@
+{
+  "USC_CD": "C01",
+  "FP_CD": 1,
+  "PNT_CD": 426,
+  "PNT_COORD": {
+    "X": 1,
+    "Y": 8
+  },
+  "PNT_MAPG_NO": null,
+  "DATETIME": "20220714_102820.421",
+  "DEVICE": "LM-V510N",
+  "PRESSURE": 997.46246,
+  "GEOMAG": {
+    "X": -31.612501,
+    "Y": -18.4125,
+    "Z": -18.993752
+  },
+  "WIFI_RSSI_AP_CNT": 33,
+  "WIFI_RSSI_AP": [
+    {
+      "NO": 1,
+      "SSID": "KT_GiGA_2G_Wave2_2E51",
+      "BSSID": "60:29:d5:08:2e:55",
+      "RSSI": -81
+    },
+    {
+      "NO": 2,
+      "SSID": "KT_GiGA_5G_Wave2_2E51",
+      "BSSID": "60:29:d5:08:2e:54",
+      "RSSI": -92
+    },
+    {
+      "NO": 3,
+      "SSID": "[air purifier] Samsung",
+      "BSSID": "70:2c:1f:68:b2:86",
+      "RSSI": -76
+    },
+    {
+      "NO": 4,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:23:dc",
+      "RSSI": -61
+    },
+    {
+      "NO": 5,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:57:ca",
+      "RSSI": -72
+    },
+    {
+      "NO": 6,
+      "SSID": "[air purifier]_E30AJT1013227F",
+      "BSSID": "88:57:1d:38:6e:87",
+      "RSSI": -75
+    },
+    {
+      "NO": 7,
+      "SSID": "sarangbang",
+      "BSSID": "88:3c:1c:bb:d5:96",
+      "RSSI": -79
+    },
+    {
+      "NO": 8,
+      "SSID": "chosungmin",
+      "BSSID": "00:07:89:77:4a:5c",
+      "RSSI": -79
+    },
+    {
+      "NO": 9,
+      "SSID": "chosungmin_5G",
+      "BSSID": "00:07:89:77:4a:5d",
+      "RSSI": -86
+    },
+    {
+      "NO": 10,
+      "SSID": "",
+      "BSSID": "c6:a9:4f:c9:97:b2",
+      "RSSI": -93
+    },
+    {
+      "NO": 11,
+      "SSID": "NIDS_P_02_ea:d7",
+      "BSSID": "ce:50:e3:67:ea:d7",
+      "RSSI": -84
+    },
+    {
+      "NO": 12,
+      "SSID": "WPHARM",
+      "BSSID": "64:e5:99:1e:7b:6a",
+      "RSSI": -71
+    },
+    {
+      "NO": 13,
+      "SSID": "",
+      "BSSID": "02:27:1c:d6:f6:8f",
+      "RSSI": -70
+    },
+    {
+      "NO": 14,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:28:26",
+      "RSSI": -71
+    },
+    {
+      "NO": 15,
+      "SSID": "HARVARD OP _5G",
+      "BSSID": "00:07:89:60:90:68",
+      "RSSI": -89
+    },
+    {
+      "NO": 16,
+      "SSID": "KT_GiGA_미래",
+      "BSSID": "b4:a9:4f:c9:97:b3",
+      "RSSI": -81
+    },
+    {
+      "NO": 17,
+      "SSID": "KT_GiGA_5G_WEILAI",
+      "BSSID": "b4:a9:4f:c9:97:b2",
+      "RSSI": -94
+    },
+    {
+      "NO": 18,
+      "SSID": "",
+      "BSSID": "66:29:d5:08:2e:54",
+      "RSSI": -94
+    },
+    {
+      "NO": 19,
+      "SSID": "NIDS_P_02_f5:f3",
+      "BSSID": "ce:50:e3:67:f5:f3",
+      "RSSI": -63
+    },
+    {
+      "NO": 20,
+      "SSID": "O5G",
+      "BSSID": "70:5d:cc:38:52:d8",
+      "RSSI": -63
+    },
+    {
+      "NO": 21,
+      "SSID": "K-photo 5G",
+      "BSSID": "60:29:d5:45:66:c3",
+      "RSSI": -89
+    },
+    {
+      "NO": 22,
+      "SSID": "NIDS_P_02_dc:8e",
+      "BSSID": "ee:fa:bc:50:dc:8e",
+      "RSSI": -72
+    },
+    {
+      "NO": 23,
+      "SSID": "olleh_WiFi_B6EE_5GHz",
+      "BSSID": "08:5d:dd:76:b6:f1",
+      "RSSI": -83
+    },
+    {
+      "NO": 24,
+      "SSID": "SORA",
+      "BSSID": "08:5d:dd:76:b6:f2",
+      "RSSI": -80
+    },
+    {
+      "NO": 25,
+      "SSID": "NIDS_P_02_77:30",
+      "BSSID": "ee:fa:bc:50:77:30",
+      "RSSI": -66
+    },
+    {
+      "NO": 26,
+      "SSID": "NIDS_P_02_ec:c8",
+      "BSSID": "ee:fa:bc:50:ec:c8",
+      "RSSI": -68
+    },
+    {
+      "NO": 27,
+      "SSID": "",
+      "BSSID": "12:07:89:81:db:f5",
+      "RSSI": -94
+    },
+    {
+      "NO": 28,
+      "SSID": "SEOUL_5G",
+      "BSSID": "00:07:89:81:db:f5",
+      "RSSI": -96
+    },
+    {
+      "NO": 29,
+      "SSID": "NIDS_P_02_f0:c1",
+      "BSSID": "ce:50:e3:67:f0:c1",
+      "RSSI": -66
+    },
+    {
+      "NO": 30,
+      "SSID": "SISUL",
+      "BSSID": "90:9f:33:ba:f6:ae",
+      "RSSI": -80
+    },
+    {
+      "NO": 31,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:24:34",
+      "RSSI": -85
+    },
+    {
+      "NO": 32,
+      "SSID": "KT_WLAN_D668_5GHz",
+      "BSSID": "00:27:1c:d6:f6:8e",
+      "RSSI": -81
+    },
+    {
+      "NO": 33,
+      "SSID": "O",
+      "BSSID": "70:5d:cc:38:52:da",
+      "RSSI": -58
+    }
+  ]
+}

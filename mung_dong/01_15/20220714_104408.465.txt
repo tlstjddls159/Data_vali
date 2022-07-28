@@ -1,0 +1,165 @@
+{
+  "USC_CD": "C01",
+  "FP_CD": 1,
+  "PNT_CD": 797,
+  "PNT_COORD": {
+    "X": 1,
+    "Y": 15
+  },
+  "PNT_MAPG_NO": null,
+  "DATETIME": "20220714_104408.465",
+  "DEVICE": "LM-V510N",
+  "PRESSURE": 997.6075,
+  "GEOMAG": {
+    "X": -24.937502,
+    "Y": -27.712502,
+    "Z": -28.968752
+  },
+  "WIFI_RSSI_AP_CNT": 24,
+  "WIFI_RSSI_AP": [
+    {
+      "NO": 1,
+      "SSID": "KT_GiGA_2G_Wave2_2E51",
+      "BSSID": "60:29:d5:08:2e:55",
+      "RSSI": -85
+    },
+    {
+      "NO": 2,
+      "SSID": "KT_GiGA_5G_Wave2_2E51",
+      "BSSID": "60:29:d5:08:2e:54",
+      "RSSI": -93
+    },
+    {
+      "NO": 3,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:23:dc",
+      "RSSI": -64
+    },
+    {
+      "NO": 4,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:57:ca",
+      "RSSI": -71
+    },
+    {
+      "NO": 5,
+      "SSID": "sarangbang",
+      "BSSID": "88:3c:1c:bb:d5:96",
+      "RSSI": -83
+    },
+    {
+      "NO": 6,
+      "SSID": "chosungmin",
+      "BSSID": "00:07:89:77:4a:5c",
+      "RSSI": -75
+    },
+    {
+      "NO": 7,
+      "SSID": "chosungmin_5G",
+      "BSSID": "00:07:89:77:4a:5d",
+      "RSSI": -82
+    },
+    {
+      "NO": 8,
+      "SSID": "",
+      "BSSID": "00:02:a8:8e:8c:78",
+      "RSSI": -82
+    },
+    {
+      "NO": 9,
+      "SSID": "WPHARM",
+      "BSSID": "64:e5:99:1e:7b:6a",
+      "RSSI": -67
+    },
+    {
+      "NO": 10,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:28:26",
+      "RSSI": -64
+    },
+    {
+      "NO": 11,
+      "SSID": "HARVARD OP",
+      "BSSID": "00:07:89:60:90:67",
+      "RSSI": -83
+    },
+    {
+      "NO": 12,
+      "SSID": "HARVARD OP _5G",
+      "BSSID": "00:07:89:60:90:68",
+      "RSSI": -90
+    },
+    {
+      "NO": 13,
+      "SSID": "NIDS_P_02_f5:f3",
+      "BSSID": "ce:50:e3:67:f5:f3",
+      "RSSI": -65
+    },
+    {
+      "NO": 14,
+      "SSID": "O5G",
+      "BSSID": "70:5d:cc:38:52:d8",
+      "RSSI": -69
+    },
+    {
+      "NO": 15,
+      "SSID": "NIDS_P_02_71:5a",
+      "BSSID": "ee:fa:bc:50:71:5a",
+      "RSSI": -69
+    },
+    {
+      "NO": 16,
+      "SSID": "K-photo 5G",
+      "BSSID": "60:29:d5:45:66:c3",
+      "RSSI": -86
+    },
+    {
+      "NO": 17,
+      "SSID": "NIDS_P_02_77:30",
+      "BSSID": "ee:fa:bc:50:77:30",
+      "RSSI": -80
+    },
+    {
+      "NO": 18,
+      "SSID": "NIDS_P_02_ec:c8",
+      "BSSID": "ee:fa:bc:50:ec:c8",
+      "RSSI": -62
+    },
+    {
+      "NO": 19,
+      "SSID": "NIDS_P_02_f0:c1",
+      "BSSID": "ce:50:e3:67:f0:c1",
+      "RSSI": -63
+    },
+    {
+      "NO": 20,
+      "SSID": "",
+      "BSSID": "66:29:d5:45:66:c3",
+      "RSSI": -87
+    },
+    {
+      "NO": 21,
+      "SSID": "KT_WLAN_D668_5GHz",
+      "BSSID": "00:27:1c:d6:f6:8e",
+      "RSSI": -81
+    },
+    {
+      "NO": 22,
+      "SSID": "Mir Optical",
+      "BSSID": "00:27:1c:d6:f6:8f",
+      "RSSI": -74
+    },
+    {
+      "NO": 23,
+      "SSID": "O",
+      "BSSID": "70:5d:cc:38:52:da",
+      "RSSI": -70
+    },
+    {
+      "NO": 24,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:25:12",
+      "RSSI": -89
+    }
+  ]
+}

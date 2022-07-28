@@ -1,0 +1,273 @@
+{
+  "USC_CD": "C01",
+  "FP_CD": 1,
+  "PNT_CD": 55,
+  "PNT_COORD": {
+    "X": 1,
+    "Y": 1
+  },
+  "PNT_MAPG_NO": null,
+  "DATETIME": "20220713_141736.985",
+  "DEVICE": "LM-V510N",
+  "PRESSURE": 995.1875,
+  "GEOMAG": {
+    "X": -17.56875,
+    "Y": -11.400001,
+    "Z": -23.0625
+  },
+  "WIFI_RSSI_AP_CNT": 42,
+  "WIFI_RSSI_AP": [
+    {
+      "NO": 1,
+      "SSID": "DIRECT-18-HP M15 LaserJet",
+      "BSSID": "b2:0c:d1:25:22:18",
+      "RSSI": -78
+    },
+    {
+      "NO": 2,
+      "SSID": "Linc-5F2",
+      "BSSID": "70:5d:cc:34:18:2e",
+      "RSSI": -40
+    },
+    {
+      "NO": 3,
+      "SSID": "Linc-5F2_5G",
+      "BSSID": "70:5d:cc:34:18:2c",
+      "RSSI": -56
+    },
+    {
+      "NO": 4,
+      "SSID": "DK0328",
+      "BSSID": "70:5d:cc:2a:56:9e",
+      "RSSI": -76
+    },
+    {
+      "NO": 5,
+      "SSID": "SK_WiFiGIGADFB3",
+      "BSSID": "42:23:aa:8d:df:b1",
+      "RSSI": -92
+    },
+    {
+      "NO": 6,
+      "SSID": "Public WiFi Secure",
+      "BSSID": "2a:d1:3f:15:52:15",
+      "RSSI": -87
+    },
+    {
+      "NO": 7,
+      "SSID": "SK_WiFiGIGADFB3_5G",
+      "BSSID": "00:23:aa:8d:df:b1",
+      "RSSI": -91
+    },
+    {
+      "NO": 8,
+      "SSID": "Public WiFi Secure",
+      "BSSID": "2a:d1:3f:15:53:17",
+      "RSSI": -92
+    },
+    {
+      "NO": 9,
+      "SSID": "linc718",
+      "BSSID": "64:e5:99:a3:da:7c",
+      "RSSI": -64
+    },
+    {
+      "NO": 10,
+      "SSID": "DSRC5G",
+      "BSSID": "70:5d:cc:ca:3e:f3",
+      "RSSI": -90
+    },
+    {
+      "NO": 11,
+      "SSID": "KT_GiGA_1838",
+      "BSSID": "b4:a9:4f:b1:18:3c",
+      "RSSI": -76
+    },
+    {
+      "NO": 12,
+      "SSID": "DIRECT-09 C51x Series",
+      "BSSID": "86:25:19:a1:63:09",
+      "RSSI": -83
+    },
+    {
+      "NO": 13,
+      "SSID": "edit 5G",
+      "BSSID": "70:5d:cc:82:8f:8c",
+      "RSSI": -91
+    },
+    {
+      "NO": 14,
+      "SSID": "SEOUL_Secure",
+      "BSSID": "24:d1:3f:15:52:15",
+      "RSSI": -90
+    },
+    {
+      "NO": 15,
+      "SSID": "netis",
+      "BSSID": "04:5e:a4:fe:ab:5a",
+      "RSSI": -75
+    },
+    {
+      "NO": 16,
+      "SSID": "sp_display",
+      "BSSID": "40:e3:d6:d5:a4:d4",
+      "RSSI": -93
+    },
+    {
+      "NO": 17,
+      "SSID": "uscm_816_2g",
+      "BSSID": "88:36:6c:87:03:34",
+      "RSSI": -62
+    },
+    {
+      "NO": 18,
+      "SSID": "uscm_816_5g",
+      "BSSID": "88:36:6c:87:03:36",
+      "RSSI": -91
+    },
+    {
+      "NO": 19,
+      "SSID": "iptime_AAAAA",
+      "BSSID": "64:e5:99:a3:da:78",
+      "RSSI": -74
+    },
+    {
+      "NO": 20,
+      "SSID": "sp_yundu",
+      "BSSID": "40:e3:d6:d5:a4:d0",
+      "RSSI": -93
+    },
+    {
+      "NO": 21,
+      "SSID": "sp_space",
+      "BSSID": "40:e3:d6:d5:a4:d1",
+      "RSSI": -94
+    },
+    {
+      "NO": 22,
+      "SSID": "",
+      "BSSID": "40:e3:d6:d5:a4:d2",
+      "RSSI": -95
+    },
+    {
+      "NO": 23,
+      "SSID": "",
+      "BSSID": "40:e3:d6:d5:a4:d3",
+      "RSSI": -95
+    },
+    {
+      "NO": 24,
+      "SSID": "DIC-3F",
+      "BSSID": "58:b6:33:0e:73:b8",
+      "RSSI": -81
+    },
+    {
+      "NO": 25,
+      "SSID": "U+Net4290_5G",
+      "BSSID": "80:ca:4b:61:42:93",
+      "RSSI": -61
+    },
+    {
+      "NO": 26,
+      "SSID": "U+Net4290",
+      "BSSID": "80:ca:4b:61:42:92",
+      "RSSI": -44
+    },
+    {
+      "NO": 27,
+      "SSID": "PublicWifi@BUS_Secure",
+      "BSSID": "2e:d1:3f:15:53:17",
+      "RSSI": -90
+    },
+    {
+      "NO": 28,
+      "SSID": "RUBATO",
+      "BSSID": "cc:32:e5:d3:d3:7c",
+      "RSSI": -82
+    },
+    {
+      "NO": 29,
+      "SSID": "olleh_WiFi_95E6",
+      "BSSID": "08:5d:dd:9a:95:ea",
+      "RSSI": -87
+    },
+    {
+      "NO": 30,
+      "SSID": "Linc-5F1_5G",
+      "BSSID": "70:5d:cc:34:03:c8",
+      "RSSI": -70
+    },
+    {
+      "NO": 31,
+      "SSID": "edit",
+      "BSSID": "72:5d:cc:c2:8f:8c",
+      "RSSI": -70
+    },
+    {
+      "NO": 32,
+      "SSID": "sp_space",
+      "BSSID": "40:e3:d6:d5:a6:32",
+      "RSSI": -96
+    },
+    {
+      "NO": 33,
+      "SSID": "sp_yundu",
+      "BSSID": "40:e3:d6:d5:a6:31",
+      "RSSI": -95
+    },
+    {
+      "NO": 34,
+      "SSID": "dorothea",
+      "BSSID": "70:4f:57:78:eb:6a",
+      "RSSI": -85
+    },
+    {
+      "NO": 35,
+      "SSID": "KT_GiGA_5G_CE82",
+      "BSSID": "0c:96:cd:3b:ce:85",
+      "RSSI": -95
+    },
+    {
+      "NO": 36,
+      "SSID": "Linc-5F1",
+      "BSSID": "70:5d:cc:34:03:ca",
+      "RSSI": -53
+    },
+    {
+      "NO": 37,
+      "SSID": "Public WiFi Free_140",
+      "BSSID": "d8:19:ce:03:44:37",
+      "RSSI": -84
+    },
+    {
+      "NO": 38,
+      "SSID": "Public WiFi Secure",
+      "BSSID": "d8:19:ce:03:44:38",
+      "RSSI": -95
+    },
+    {
+      "NO": 39,
+      "SSID": "linc행정지원실",
+      "BSSID": "70:5d:cc:a5:9b:c6",
+      "RSSI": -79
+    },
+    {
+      "NO": 40,
+      "SSID": "VBTEST",
+      "BSSID": "98:60:22:60:88:57",
+      "RSSI": -86
+    },
+    {
+      "NO": 41,
+      "SSID": "SEOUL",
+      "BSSID": "20:db:ab:6e:89:0c",
+      "RSSI": -88
+    },
+    {
+      "NO": 42,
+      "SSID": "PublicWifi@BUS_Secure",
+      "BSSID": "2e:d1:3f:15:52:15",
+      "RSSI": -90
+    }
+  ]
+}

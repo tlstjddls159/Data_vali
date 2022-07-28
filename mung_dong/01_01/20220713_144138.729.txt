@@ -1,0 +1,135 @@
+{
+  "USC_CD": "C01",
+  "FP_CD": 1,
+  "PNT_CD": 55,
+  "PNT_COORD": {
+    "X": 1,
+    "Y": 1
+  },
+  "PNT_MAPG_NO": null,
+  "DATETIME": "20220713_144138.729",
+  "DEVICE": "LM-V510N",
+  "PRESSURE": 994.2962,
+  "GEOMAG": {
+    "X": -21.5625,
+    "Y": 21.0,
+    "Z": -19.66875
+  },
+  "WIFI_RSSI_AP_CNT": 19,
+  "WIFI_RSSI_AP": [
+    {
+      "NO": 1,
+      "SSID": "KT_GiGA_2G_B029",
+      "BSSID": "88:3c:1c:13:b0:2d",
+      "RSSI": -82
+    },
+    {
+      "NO": 2,
+      "SSID": "Linc-5F2",
+      "BSSID": "70:5d:cc:34:18:2e",
+      "RSSI": -53
+    },
+    {
+      "NO": 3,
+      "SSID": "Linc-5F2_5G",
+      "BSSID": "70:5d:cc:34:18:2c",
+      "RSSI": -55
+    },
+    {
+      "NO": 4,
+      "SSID": "DK0328",
+      "BSSID": "70:5d:cc:2a:56:9e",
+      "RSSI": -79
+    },
+    {
+      "NO": 5,
+      "SSID": "KT_GiGA_2G_Wave2_n5wly",
+      "BSSID": "88:3c:1c:bc:47:10",
+      "RSSI": -80
+    },
+    {
+      "NO": 6,
+      "SSID": "SEOUL_Secure",
+      "BSSID": "24:d1:3f:15:2e:b4",
+      "RSSI": -94
+    },
+    {
+      "NO": 7,
+      "SSID": "KT_GiGA_1838",
+      "BSSID": "b4:a9:4f:b1:18:3c",
+      "RSSI": -78
+    },
+    {
+      "NO": 8,
+      "SSID": "edit 5G",
+      "BSSID": "70:5d:cc:82:8f:8c",
+      "RSSI": -85
+    },
+    {
+      "NO": 9,
+      "SSID": "netis",
+      "BSSID": "04:5e:a4:fe:ab:5a",
+      "RSSI": -78
+    },
+    {
+      "NO": 10,
+      "SSID": "uscm_816_2g",
+      "BSSID": "88:36:6c:87:03:34",
+      "RSSI": -70
+    },
+    {
+      "NO": 11,
+      "SSID": "uscm_816_5g",
+      "BSSID": "88:36:6c:87:03:36",
+      "RSSI": -91
+    },
+    {
+      "NO": 12,
+      "SSID": "iptime_AAAAA",
+      "BSSID": "64:e5:99:a3:da:78",
+      "RSSI": -79
+    },
+    {
+      "NO": 13,
+      "SSID": "T Free WiFi Zone",
+      "BSSID": "06:30:0d:85:76:43",
+      "RSSI": -87
+    },
+    {
+      "NO": 14,
+      "SSID": "U+Net4290_5G",
+      "BSSID": "80:ca:4b:61:42:93",
+      "RSSI": -68
+    },
+    {
+      "NO": 15,
+      "SSID": "U+Net4290",
+      "BSSID": "80:ca:4b:61:42:92",
+      "RSSI": -42
+    },
+    {
+      "NO": 16,
+      "SSID": "Linc-5F1_5G",
+      "BSSID": "70:5d:cc:34:03:c8",
+      "RSSI": -70
+    },
+    {
+      "NO": 17,
+      "SSID": "linc세콤",
+      "BSSID": "70:5d:cc:6c:e7:8a",
+      "RSSI": -78
+    },
+    {
+      "NO": 18,
+      "SSID": "Linc-5F1",
+      "BSSID": "70:5d:cc:34:03:ca",
+      "RSSI": -47
+    },
+    {
+      "NO": 19,
+      "SSID": "",
+      "BSSID": "20:db:ab:6e:89:0e",
+      "RSSI": -82
+    }
+  ]
+}

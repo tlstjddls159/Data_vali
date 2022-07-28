@@ -1,0 +1,213 @@
+{
+  "USC_CD": "C01",
+  "FP_CD": 1,
+  "PNT_CD": 1009,
+  "PNT_COORD": {
+    "X": 1,
+    "Y": 19
+  },
+  "PNT_MAPG_NO": null,
+  "DATETIME": "20220714_104539.090",
+  "DEVICE": "LM-V510N",
+  "PRESSURE": 997.6312,
+  "GEOMAG": {
+    "X": -26.081251,
+    "Y": -37.350002,
+    "Z": -34.10625
+  },
+  "WIFI_RSSI_AP_CNT": 32,
+  "WIFI_RSSI_AP": [
+    {
+      "NO": 1,
+      "SSID": "KT_GiGA_5G_Wave2_2E51",
+      "BSSID": "60:29:d5:08:2e:54",
+      "RSSI": -89
+    },
+    {
+      "NO": 2,
+      "SSID": "[air purifier] Samsung",
+      "BSSID": "70:2c:1f:68:b2:86",
+      "RSSI": -87
+    },
+    {
+      "NO": 3,
+      "SSID": "NIDS_P_02_f9:b2",
+      "BSSID": "ce:50:e3:67:f9:b2",
+      "RSSI": -82
+    },
+    {
+      "NO": 4,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:23:dc",
+      "RSSI": -58
+    },
+    {
+      "NO": 5,
+      "SSID": "[air purifier]_E30AJT1013227F",
+      "BSSID": "88:57:1d:38:6e:87",
+      "RSSI": -81
+    },
+    {
+      "NO": 6,
+      "SSID": "sarangbang 5G",
+      "BSSID": "88:3c:1c:bb:d5:95",
+      "RSSI": -80
+    },
+    {
+      "NO": 7,
+      "SSID": "sarangbang",
+      "BSSID": "88:3c:1c:bb:d5:96",
+      "RSSI": -64
+    },
+    {
+      "NO": 8,
+      "SSID": "chosungmin_5G",
+      "BSSID": "00:07:89:77:4a:5d",
+      "RSSI": -75
+    },
+    {
+      "NO": 9,
+      "SSID": "",
+      "BSSID": "c6:a9:4f:c9:97:b2",
+      "RSSI": -95
+    },
+    {
+      "NO": 10,
+      "SSID": "",
+      "BSSID": "00:02:a8:8e:8c:78",
+      "RSSI": -83
+    },
+    {
+      "NO": 11,
+      "SSID": "myLGNet",
+      "BSSID": "00:02:a8:8e:8c:79",
+      "RSSI": -81
+    },
+    {
+      "NO": 12,
+      "SSID": "WPHARM",
+      "BSSID": "64:e5:99:1e:7b:6a",
+      "RSSI": -61
+    },
+    {
+      "NO": 13,
+      "SSID": "",
+      "BSSID": "02:27:1c:d6:f6:8f",
+      "RSSI": -77
+    },
+    {
+      "NO": 14,
+      "SSID": "TST_MESH",
+      "BSSID": "70:5d:cc:df:28:26",
+      "RSSI": -63
+    },
+    {
+      "NO": 15,
+      "SSID": "HARVARD OP _5G",
+      "BSSID": "00:07:89:60:90:68",
+      "RSSI": -83
+    },
+    {
+      "NO": 16,
+      "SSID": "NIDS_P_02_a8:66",
+      "BSSID": "ca:2b:96:04:a8:66",
+      "RSSI": -83
+    },
+    {
+      "NO": 17,
+      "SSID": "KT_GiGA_5G_WEILAI",
+      "BSSID": "b4:a9:4f:c9:97:b2",
+      "RSSI": -94
+    },
+    {
+      "NO": 18,
+      "SSID": "AT 5G",
+      "BSSID": "90:9f:33:d2:aa:40",
+      "RSSI": -95
+    },
+    {
+      "NO": 19,
+      "SSID": "NIDS_P_02_f5:f3",
+      "BSSID": "ce:50:e3:67:f5:f3",
+      "RSSI": -67
+    },
+    {
+      "NO": 20,
+      "SSID": "O5G",
+      "BSSID": "70:5d:cc:38:52:d8",
+      "RSSI": -75
+    },
+    {
+      "NO": 21,
+      "SSID": "K-photo 5G",
+      "BSSID": "60:29:d5:45:66:c3",
+      "RSSI": -81
+    },
+    {
+      "NO": 22,
+      "SSID": "olleh_WiFi_B6EE_5GHz",
+      "BSSID": "08:5d:dd:76:b6:f1",
+      "RSSI": -91
+    },
+    {
+      "NO": 23,
+      "SSID": "NIDS_P_02_77:30",
+      "BSSID": "ee:fa:bc:50:77:30",
+      "RSSI": -78
+    },
+    {
+      "NO": 24,
+      "SSID": "NIDS_P_02_e1:7d",
+      "BSSID": "ce:50:e3:67:e1:7d",
+      "RSSI": -84
+    },
+    {
+      "NO": 25,
+      "SSID": "NIDS_P_02_ec:c8",
+      "BSSID": "ee:fa:bc:50:ec:c8",
+      "RSSI": -66
+    },
+    {
+      "NO": 26,
+      "SSID": "",
+      "BSSID": "12:07:89:81:db:f5",
+      "RSSI": -89
+    },
+    {
+      "NO": 27,
+      "SSID": "SEOUL_5G",
+      "BSSID": "00:07:89:81:db:f5",
+      "RSSI": -92
+    },
+    {
+      "NO": 28,
+      "SSID": "",
+      "BSSID": "ba:3c:1c:bb:d5:95",
+      "RSSI": -80
+    },
+    {
+      "NO": 29,
+      "SSID": "",
+      "BSSID": "66:29:d5:45:66:c3",
+      "RSSI": -82
+    },
+    {
+      "NO": 30,
+      "SSID": "KT_WLAN_D668_5GHz",
+      "BSSID": "00:27:1c:d6:f6:8e",
+      "RSSI": -84
+    },
+    {
+      "NO": 31,
+      "SSID": "Mir Optical",
+      "BSSID": "00:27:1c:d6:f6:8f",
+      "RSSI": -77
+    },
+    {
+      "NO": 32,
+      "SSID": "O",
+      "BSSID": "70:5d:cc:38:52:da",
+      "RSSI": -73
+    }
+  ]
+}
